@@ -12,14 +12,14 @@
 출력
 영문 한글 순서로 정렬된 문장
 영문자수 한글문자수 총문자수
-
+```
 예제 입력
 Eng한글lish
 
 예제 출력
 English한글
 7 2 9
-
+```
 
 # 암호 최대한 깨기
 
@@ -29,7 +29,7 @@ English한글
 예를 들어, 암호화하지 않은 단어는 있는데, 이에 맞는 암호화된 단어는 없을 수 있고 반대로 암호화된 단어는 있는데 암호화하지 않은 단어도 없을 수 있다. 각 단어는 최대 10글자이다.
 이 단어들을 이용해 어떤 글자가 어떤 글자로 암호화되는지를 알아내, the quick brown fox jumps over the lazy dog을 최대한 암호화하여 출력하라.
 
-
+```
 입력
 ??i ????? h???? u?? ????? ??i? ??i ???? ??m
 abcdd hijk lmnop qrstuv
@@ -37,3 +37,4 @@ tzwbb nofdx phqgg eayl jkrcvs
 
 출력
 cei jvaql hkd?f ud? yvoxr dsik cei np?? gdm
+```
